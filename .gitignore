@@ -2,7 +2,7 @@
 *.fasta
 *.nexus
 *.nex
-
+*.gbk
 
 #DS_Store from Mac
 *.DS_Store
