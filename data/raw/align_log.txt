@@ -1,0 +1,2 @@
+Started Sun Jun 21 14:33:56 2020
+muscle -in ../../data/raw/SARS-CoV-2.fasta -out ../../data/processed/SARS-CoV-2_aligned.fasta -diags -log ../../data/raw/align_log.txt -maxiters 1 
